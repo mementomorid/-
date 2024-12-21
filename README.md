@@ -1,3 +1,3 @@
 # description
 No pain , No gain. 
-press R key to rotate 
+ press R key to rotate 
